@@ -1,0 +1,10 @@
+alert("Si funciona.!!");
+var ruta = window.location;
+document.write("Hola estudiante.\n");
+document.write("Estás en: " + ruta);
+console.log("Este es un mensaje secreto");
+console.log(window.location);
+console.log(navigator);
+console.log(window);
+console.log(console);
+console.log(ruta);
